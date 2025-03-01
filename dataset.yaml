@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/project/dataset_yolov10/train/images
+val: /content/drive/MyDrive/project/dataset_yolov10/val/images 
+test: /content/drive/MyDrive/project/dataset_yolov10/test/images
+
+
+names:
+    0: val_size
+    1: --test_size
+    2: 0.1
